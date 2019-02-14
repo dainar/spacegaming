@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/spacegaming/precache-manifest.b610645e9f97e1e761c63d30c2b59f6a.js"
+  "/spacegaming/precache-manifest.167ee79c3043f7e7efded03b2707b40c.js"
 );
 
 workbox.clientsClaim();

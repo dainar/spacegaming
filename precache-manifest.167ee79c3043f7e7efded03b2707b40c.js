@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/spacegaming/static/js/runtime~main.ff8363e1.js"
   },
   {
-    "revision": "3926618979fc859f8c3b",
-    "url": "/spacegaming/static/js/main.39266189.chunk.js"
+    "revision": "53f76b9414e5fb61bced",
+    "url": "/spacegaming/static/js/main.53f76b94.chunk.js"
   },
   {
     "revision": "84333e644dac37c93fcb",
     "url": "/spacegaming/static/js/2.84333e64.chunk.js"
   },
   {
-    "revision": "3926618979fc859f8c3b",
+    "revision": "53f76b9414e5fb61bced",
     "url": "/spacegaming/static/css/main.add528c9.chunk.css"
   },
   {
-    "revision": "787a806d03fa3cfcdcdd8d8a4b33ad6d",
+    "revision": "3bdf55453f53ba792d7481e18db33ffc",
     "url": "/spacegaming/index.html"
   }
 ];
