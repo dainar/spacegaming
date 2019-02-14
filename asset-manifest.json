@@ -1,0 +1,17 @@
+{
+  "main.css": "/spacegaming/static/css/main.add528c9.chunk.css",
+  "main.js": "/spacegaming/static/js/main.ad4c03d6.chunk.js",
+  "main.js.map": "/spacegaming/static/js/main.ad4c03d6.chunk.js.map",
+  "runtime~main.js": "/spacegaming/static/js/runtime~main.ff8363e1.js",
+  "runtime~main.js.map": "/spacegaming/static/js/runtime~main.ff8363e1.js.map",
+  "static/js/2.84333e64.chunk.js": "/spacegaming/static/js/2.84333e64.chunk.js",
+  "static/js/2.84333e64.chunk.js.map": "/spacegaming/static/js/2.84333e64.chunk.js.map",
+  "index.html": "/spacegaming/index.html",
+  "precache-manifest.775c7d4b994de796b2d3fdfd83bc6cf1.js": "/spacegaming/precache-manifest.775c7d4b994de796b2d3fdfd83bc6cf1.js",
+  "service-worker.js": "/spacegaming/service-worker.js",
+  "static/css/main.add528c9.chunk.css.map": "/spacegaming/static/css/main.add528c9.chunk.css.map",
+  "static/media/clock.93a15141.svg": "/spacegaming/static/media/clock.93a15141.svg",
+  "static/media/lock.91686508.svg": "/spacegaming/static/media/lock.91686508.svg",
+  "static/media/logo.svg": "/spacegaming/static/media/logo.5d5d9eef.svg",
+  "static/media/tick.e10ac656.svg": "/spacegaming/static/media/tick.e10ac656.svg"
+}
