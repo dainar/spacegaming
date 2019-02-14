@@ -5,7 +5,7 @@ Instructions for running this project:
 Open the terminal and run the comand:
 git clone https://github.com/dainar/spacegaming.git
 
-2.- Enter to the folder "spacegaming":
+2.- Enter to the folder "spacegaming", run the comand:
 cd spacegaming
 
 3.- Install the node modules, run the comand:
@@ -15,3 +15,4 @@ npm install
 npm start
 
 The terminal will open a window browser with the adress /localhost:3000/ of your local server whith the project running =)
+Demo: https://dainar.github.io/spacegaming/
