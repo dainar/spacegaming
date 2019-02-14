@@ -4,7 +4,7 @@ export const getCupones = ( callback) => {
     return dispatch => {
         
         $.ajax({
-            url: 'http://demo7436761.mockable.io/cupons',
+            url: 'https://demo7436761.mockable.io/cupons',
             method: "GET",
             contentType: "application/json",
             dataType: "JSON",

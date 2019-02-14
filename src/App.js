@@ -62,7 +62,7 @@ class App extends Component {
          </div>
         </div>
         <div className="body">
-             <h1> {this.props.cupones.offers ? this.props.cupones.offers.length : ""} BONUSES FOR YOU TO USE NOW </h1>
+             <h1> ALSO PICK 1 OF {this.props.cupones.offers ? this.props.cupones.offers.length : ""} DEPOSIT OFFERS </h1>
           <div className="wrapper">
               <div></div>
                 <div className="wrapper-cupones">
